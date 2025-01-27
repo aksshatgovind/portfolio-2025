@@ -1,0 +1,191 @@
+.component-container10 {
+  width: 1066px;
+  height: 872px;
+  margin: var(--dl-space-space-twounits);
+  display: flex;
+  padding: var(--dl-space-space-fourunits);
+  position: relative;
+  flex-wrap: wrap;
+  align-self: center;
+  padding-right: 55px;
+  flex-direction: row;
+  justify-content: center;
+}
+ 
+.component-container11 {
+  width: 170px;
+  height: 241px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  flex-direction: row;
+  justify-content: center;
+}
+ 
+.component-container12 {
+  display: contents;
+}
+ 
+.component-container13 {
+  width: 170px;
+  height: 241px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  flex-direction: row;
+  justify-content: center;
+}
+ 
+.component-container14 {
+  display: contents;
+}
+ 
+.component-container15 {
+  width: 170px;
+  height: 241px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  flex-direction: row;
+  justify-content: center;
+}
+ 
+.component-container16 {
+  display: contents;
+}
+ 
+.component-container17 {
+  width: 170px;
+  height: 241px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  flex-direction: row;
+  justify-content: center;
+}
+ 
+.component-container18 {
+  display: contents;
+}
+ 
+.component-container19 {
+  width: 170px;
+  height: 241px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  flex-direction: row;
+  justify-content: center;
+}
+ 
+.component-container20 {
+  display: contents;
+}
+ 
+.component-container21 {
+  width: 170px;
+  height: 241px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  flex-direction: row;
+  justify-content: center;
+}
+ 
+.component-container22 {
+  display: contents;
+}
+ 
+.component-container23 {
+  width: 170px;
+  height: 241px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  flex-direction: row;
+  justify-content: center;
+}
+ 
+.component-container24 {
+  display: contents;
+}
+ 
+.component-container25 {
+  width: 170px;
+  height: 241px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  flex-direction: row;
+  justify-content: center;
+}
+ 
+.component-container26 {
+  display: contents;
+}
+ 
+.component-container27 {
+  width: 170px;
+  height: 241px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  flex-direction: row;
+  justify-content: center;
+}
+ 
+.component-container28 {
+  display: contents;
+}
+ 
+.component-container29 {
+  width: 170px;
+  height: 241px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  flex-direction: row;
+  justify-content: center;
+}
+ 
+.component-container30 {
+  display: contents;
+}
+ 
+.component-container31 {
+  width: 170px;
+  height: 241px;
+  display: flex;
+  opacity: 1;
+  flex-wrap: wrap;
+  align-items: stretch;
+  flex-direction: row;
+  justify-content: center;
+}
+ 
+.component-container32 {
+  display: contents;
+}
+ 
+.component-container33 {
+  width: 170px;
+  height: 241px;
+  display: flex;
+  opacity: 1;
+  flex-wrap: wrap;
+  align-items: stretch;
+  flex-direction: row;
+  justify-content: center;
+}
+ 
+.component-container34 {
+  display: contents;
+}
+ 
+
+ 
+@media(max-width: 991px) {
+  .component-container10 {
+    padding-right: var(--dl-space-space-twounits);
+  }
+}

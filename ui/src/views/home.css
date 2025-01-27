@@ -1,0 +1,312 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.home-text10 {
+  display: inline-block;
+  font-family: "Georgia";
+}
+ 
+.home-text11 {
+  display: inline-block;
+}
+ 
+.home-text12 {
+  display: inline-block;
+}
+ 
+.home-text13 {
+  display: inline-block;
+}
+ 
+.home-text14 {
+  display: inline-block;
+}
+ 
+.home-text15 {
+  display: inline-block;
+}
+ 
+.home-text16 {
+  display: inline-block;
+}
+ 
+.home-text17 {
+  display: inline-block;
+}
+ 
+.home-text18 {
+  display: inline-block;
+}
+ 
+.home-text19 {
+  display: inline-block;
+}
+ 
+.home-text20 {
+  display: inline-block;
+}
+ 
+.home-text21 {
+  display: inline-block;
+}
+ 
+.home-text22 {
+  display: inline-block;
+}
+ 
+.home-text23 {
+  display: inline-block;
+}
+ 
+.home-text24 {
+  display: inline-block;
+}
+ 
+.home-text25 {
+  display: inline-block;
+}
+ 
+.home-text26 {
+  display: inline-block;
+}
+ 
+.home-text30 {
+  display: inline-block;
+}
+ 
+.home-text33 {
+  color: #5c0505;
+  font-size: 30px;
+}
+ 
+.home-text36 {
+  display: inline-block;
+}
+ 
+.home-text37 {
+  display: inline-block;
+}
+ 
+.home-text38 {
+  color: var(--dl-color-theme-primary2);
+  display: inline-block;
+}
+ 
+.home-text39 {
+  color: var(--dl-color-theme-primary2);
+  display: inline-block;
+}
+ 
+.home-text40 {
+  color: var(--dl-color-theme-primary2);
+  display: inline-block;
+}
+ 
+.home-text41 {
+  display: inline-block;
+  font-family: "Merriweather";
+}
+ 
+.home-text42 {
+  display: inline-block;
+}
+ 
+.home-text44 {
+  font-size: 19px;
+}
+ 
+.home-text45 {
+  display: inline-block;
+}
+ 
+.home-text47 {
+  font-size: 19px;
+}
+ 
+.home-text48 {
+  display: inline-block;
+}
+ 
+.home-text50 {
+  font-size: 19px;
+}
+ 
+.home-text51 {
+  display: inline-block;
+}
+ 
+.home-text54 {
+  display: inline-block;
+}
+ 
+.home-text55 {
+  display: inline-block;
+}
+ 
+.home-text56 {
+  display: inline-block;
+}
+ 
+.home-text57 {
+  display: inline-block;
+}
+ 
+.home-text58 {
+  display: inline-block;
+}
+ 
+.home-text59 {
+  display: inline-block;
+}
+ 
+.home-text60 {
+  display: inline-block;
+}
+ 
+.home-text61 {
+  display: inline-block;
+}
+ 
+.home-text62 {
+  display: inline-block;
+}
+ 
+.home-text63 {
+  display: inline-block;
+}
+ 
+.home-text64 {
+  display: inline-block;
+}
+ 
+.home-text65 {
+  display: inline-block;
+}
+ 
+.home-text66 {
+  display: inline-block;
+}
+ 
+.home-text67 {
+  display: inline-block;
+}
+ 
+.home-text68 {
+  display: inline-block;
+}
+ 
+.home-text69 {
+  display: inline-block;
+}
+ 
+.home-text70 {
+  display: inline-block;
+}
+ 
+.home-text71 {
+  color: rgb(0, 58, 59);
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+ 
+.home-text72 {
+  color: rgb(0, 58, 59);
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+ 
+.home-text73 {
+  color: rgb(0, 58, 59);
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+ 
+.home-text74 {
+  color: rgb(0, 58, 59);
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+ 
+.home-text75 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: #5a0323;
+  display: inline-block;
+}
+ 
+.home-text76 {
+  display: inline-block;
+  font-size: 20px;
+}
+ 
+.home-text77 {
+  display: inline-block;
+  font-size: 20px;
+}
+ 
+.home-text78 {
+  display: inline-block;
+  font-size: 20px;
+}
+ 
+.home-text79 {
+  display: inline-block;
+  font-size: 20px;
+}
+ 
+.home-text80 {
+  display: inline-block;
+  font-size: 46px;
+}
+ 
+.home-text81 {
+  display: inline-block;
+}
+ 
+.home-text82 {
+  display: inline-block;
+}
+ 
+.home-text83 {
+  display: inline-block;
+}
+ 
+.home-text84 {
+  display: inline-block;
+}
+ 
+.home-text85 {
+  display: inline-block;
+}
+ 
+.home-text86 {
+  display: inline-block;
+}
+ 
+.home-text87 {
+  display: inline-block;
+}
+ 
+.home-text88 {
+  display: inline-block;
+}
+ 
+.home-text89 {
+  display: inline-block;
+}
+ 
+.home-text90 {
+  display: inline-block;
+}
+ 
+.home-text91 {
+  display: inline-block;
+}
