@@ -5,7 +5,7 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 ## Live Site
 
 You can view my portfolio here:  
-[https://aksshatgovind.github.io/portfolio-2025](https://aksshatgovind.github.io/portfolio-2025)
+[Website](portfolio-2025-sigma-one.vercel.app)
 
 ## Overview
 
